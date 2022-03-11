@@ -1,4 +1,4 @@
-# 6497_LaserMessage
+# 6087_LaserMessage
 
 made by Jaehyeok Choi
 
@@ -6,7 +6,7 @@ made by Jaehyeok Choi
 
 ## What is the problem?
 
-![image](https://github.com/Choi-JaeHyeok-21500749/6497_LaserMessage/blob/main/6497_pro.PNG)
+![image](https://github.com/Choi-JaeHyeok-21500749/6087_LaserMessage/blob/main/6087_pro.PNG)
 
 ## What Algorithm should I use?
 
